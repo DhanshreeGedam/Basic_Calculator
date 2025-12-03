@@ -12,14 +12,14 @@ It performs standard arithmetic operations and includes additional features such
 
 ## 🖼️ Preview  
 
-![Calculator Screenshot](calculator.png)
-![Calculator Screenshot](Addition.png)
-![Calculator Screenshot](Subtration.png)
-![Calculator Screenshot](Multiplication.png)
-![Calculator Screenshot](Division.png)
-![Calculator Screenshot](Percentage.png)
-![Calculator Screenshot](Modulus.png)
-![Calculator Screenshot](SquareRoot.png)
+![Calculator Screenshot](./images/calculator.png)
+![Calculator Screenshot](./images/Addition.png)
+![Calculator Screenshot](./images/Subtration.png)
+![Calculator Screenshot](./images/Multiplication.png)
+![Calculator Screenshot](./images/Division.png)
+![Calculator Screenshot](./images/Percentage.png)
+![Calculator Screenshot](./images/Modulus.png)
+![Calculator Screenshot](./images/SquareRoot.png)
 ---
 
 ## 🚀 Features  
