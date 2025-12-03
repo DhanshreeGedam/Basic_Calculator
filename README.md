@@ -12,14 +12,30 @@ It performs standard arithmetic operations and includes additional features such
 
 ## 🖼️ Preview  
 
-![Calculator Screenshot](./images/calculator.png)
-![Calculator Screenshot](./images/Addition.png)
-![Calculator Screenshot](./images/Subtration.png)
-![Calculator Screenshot](./images/Multiplication.png)
-![Calculator Screenshot](./images/Division.png)
-![Calculator Screenshot](./images/Percentage.png)
-![Calculator Screenshot](./images/Modulus.png)
-![Calculator Screenshot](./images/SquareRoot.png)
+  ### 🧮 Calculator
+  <img src="./images/Calculator.png" width="200" height="300">
+
+  ### ➕ Addition
+  <img src="./images/Addition.png" width="200" height="300">
+
+  ### ➖ Subtraction
+  <img src="./images/Subtration.png" width="200" height="300">
+
+  ### ✖️ Multiplication
+  <img src="./images/Multiplication.png" width="200" height="300">
+
+  ### ➗ Division
+  <img src="./images/Division.png" width="200" height="300">
+
+  ### 📊 Percentage
+  <img src="./images/Percentage.png" width="200" height="300">
+
+  ### 🔢 Modulus
+  <img src="./images/Modulus.png" width="200" height="300">
+
+  ### √ Square Root
+  <img src="./images/SquareRoot.png" width="200" height="300">
+
 ---
 
 ## 🚀 Features  
@@ -103,9 +119,18 @@ Example:
 ## 📁 Folder Structure  
 
 Basic-Calculator/
-│
-├── index.html # Calculator layout
-├── styles.css # Styling and responsiveness
-├── script.js # Calculator logic
-├── screenshot.png # (Optional) Screenshot preview
+
+├── images
+
+└──── screenshot.png # (Optional) Screenshot preview
+
+└── index.html # Calculator layout
+
 └── README.md # Project documentation
+
+└── script.js # Calculator logic
+
+└──
+ styles.css # Styling and responsiveness
+
+
