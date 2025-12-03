@@ -11,31 +11,52 @@ It performs standard arithmetic operations and includes additional features such
 ---
 
 ## 🖼️ Preview  
+<table>
+   <tr>
+      <td align="center">
+         <h4>🧮 Calculator</h4>
+         <img src="./images/Calculator.png" width="200" height="300">
+      </td>
+      <td align="center">
+         <h4>➕ Addition</h4>
+         <img src="./images/Addition.png" width="200" height="300">
+      </td>
+   </tr>
 
-  ### 🧮 Calculator
-  <img src="./images/Calculator.png" width="200" height="300">
+   <tr>
+      <td align="center">
+         <h4>➖ Subtraction </h4>
+         <img src="./images/Subtration.png" width="200" height="300">
+      </td>
+      <td align="center">
+         <h4>✖️ Multiplication</h4>
+         <img src="./images/Multiplication.png" width="200" height="300">
+      </td>
+   </tr>
 
-  ### ➕ Addition
-  <img src="./images/Addition.png" width="200" height="300">
+   <tr>
+      <td align="center">
+         <h4>➗ Division </h4>
+         <img src="./images/Division.png" width="200" height="300">
+      </td>
+      <td align="center">
+         <h4>📊 Percentage</h4>
+         <img src="./images/Percentage.png" width="200" height="300">
+      </td>
+   </tr>
 
-  ### ➖ Subtraction
-  <img src="./images/Subtration.png" width="200" height="300">
-
-  ### ✖️ Multiplication
-  <img src="./images/Multiplication.png" width="200" height="300">
-
-  ### ➗ Division
-  <img src="./images/Division.png" width="200" height="300">
-
-  ### 📊 Percentage
-  <img src="./images/Percentage.png" width="200" height="300">
-
-  ### 🔢 Modulus
-  <img src="./images/Modulus.png" width="200" height="300">
-
-  ### √ Square Root
-  <img src="./images/SquareRoot.png" width="200" height="300">
-
+   <tr>
+      <td align="center">
+         <h4>🔢 Modulus </h4>
+         <img src="./images/Modulus.png" width="200" height="300">
+      </td>
+      <td align="center">
+         <h4>√ Square Root</h4>
+         <img src="./images/SquareRoot.png" width="200" height="300">
+      </td>
+   </tr>
+</table>
+  
 ---
 
 ## 🚀 Features  
