@@ -21,20 +21,17 @@ It performs standard arithmetic operations and includes additional features such
          <h4>➕ Addition</h4>
          <img src="./images/Addition.png" width="200" height="300">
       </td>
-   </tr>
-
-   <tr>
       <td align="center">
          <h4>➖ Subtraction </h4>
          <img src="./images/Subtration.png" width="200" height="300">
       </td>
+   </tr>
+
+   <tr>  
       <td align="center">
          <h4>✖️ Multiplication</h4>
          <img src="./images/Multiplication.png" width="200" height="300">
       </td>
-   </tr>
-
-   <tr>
       <td align="center">
          <h4>➗ Division </h4>
          <img src="./images/Division.png" width="200" height="300">
